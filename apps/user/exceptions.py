@@ -1,0 +1,2 @@
+class InvalidActivationKey(Exception):
+    pass
