@@ -9,7 +9,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Aothentication System
+## Authentication System
   - Authenticaiton class = Token Authentication
 
 
